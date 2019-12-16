@@ -25,4 +25,9 @@ HOMEWORK 3
 
 
 
+HOMEWORK 4
+
+[Here is my HW4 html file](IE 582 - Homework 4.html) 
+
+[Here is my HW4 notebook file](IE 582 - Homework 4.ipynb) 
 
