@@ -31,3 +31,10 @@ HOMEWORK 4
 
 [Here is my HW4 notebook file](IE 582 - Homework 4.ipynb) 
 
+
+
+PROJECT
+
+[Here is our codes of project html file](Group3_Project_Code.html) 
+
+[Here is our codes of project notebook file](Group3_Project_Code.ipynb) 
