@@ -35,6 +35,10 @@ HOMEWORK 4
 
 PROJECT
 
+[Here is our report of project html file](Group3_Project_Report.html) 
+
+[Here is our report of project notebook file](Group3_Project_Report.ipynb) 
+
 [Here is our codes of project html file](Group3_Project_Code.html) 
 
 [Here is our codes of project notebook file](Group3_Project_Code.ipynb) 
